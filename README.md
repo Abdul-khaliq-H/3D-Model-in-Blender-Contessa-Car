@@ -1,7 +1,7 @@
 # 3D-Model-in-Blender
 # Contessa Car 
 
-![Contessa Car](https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Screenshot%202024-05-19%20185837.png?raw=true) <!-- Replace with the actual path to your image -->
+![Contessa Car](https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Making_Images/Screenshot%202024-05-19%20185837.png?raw=true) <!-- Replace with the actual path to your image -->
 
 ## Overview
 
