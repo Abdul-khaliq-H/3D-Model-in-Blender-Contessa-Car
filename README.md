@@ -18,8 +18,8 @@ Welcome to the Contessa Car 3D Model project! This repository showcases a detail
 
 Images of my 3D Model:
 
-<img width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/untitled.png?raw=true">  <img  width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Contessa2.png?raw=true">  
-<img  width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/contessa3.png?raw=true">  <img  width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Contessa1.png?raw=true">
+<img width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Preview/untitled.png?raw=true">  <img  width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Preview/Contessa2.png?raw=true">  
+<img  width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Preview/contessa3.png?raw=true">  <img  width="500" src="https://github.com/Abdul-khaliq-H/3D-Model-in-Blender-Contessa-Car/blob/main/Preview/Contessa1.png?raw=true">
 
 
 
